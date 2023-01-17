@@ -1,4 +1,2 @@
-# testrepo
-Getting Started with Git and GitHub
-
-1Test changes
+#Display the output
+print("New Python file")
